@@ -2,7 +2,7 @@
 # https://github.com/Damnever/pigar
 
 # src/_github.py: 9
-PyGithub == 1.35
+PyGithub==1.43.2
 
 # src/_mongodb.py: 6
 pymongo==3.6.0
